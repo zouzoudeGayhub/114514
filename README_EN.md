@@ -6,19 +6,13 @@
 
 # EatKano
 
-_🦌 Web Game 🥛_
+_ Web Game _
 
 </div>
 
 
 ## Introduction
 A web game: EatKano
-
-[Kano's Twitter](https://twitter.com/kano_2525)
-|
-[Online Version](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
 
 ## Features
 
